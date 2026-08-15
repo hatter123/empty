@@ -1,0 +1,9 @@
+{
+  "name": "dsh-profile-empty",
+  "private": true,
+  "dsh": {
+    "profile": {
+      "bundles": []
+    }
+  }
+}
